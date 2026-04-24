@@ -1,0 +1,4 @@
+Risk ID,Date Raised,Risk Description,Category,Probability (1-5),Impact (1-5),Score,Mitigation,Owner,Status,Target Resolution Date
+R-001,YYYY-MM-DD,Permit approval delay,Regulatory,3,5,15,Pre-submit with consultant and city checklist,,Open,YYYY-MM-DD
+R-002,YYYY-MM-DD,Material lead-time increase,Supply chain,4,4,16,Pre-order long lead items and keep alternates,,Open,YYYY-MM-DD
+R-003,YYYY-MM-DD,Weather delay during foundation,Schedule,3,4,12,Build weather buffer and temporary protection plan,,Open,YYYY-MM-DD
